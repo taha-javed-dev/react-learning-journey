@@ -10,7 +10,6 @@ Here is a glimpse of how the application looks with its rich dark mode design:
 
 ![Queue Management System Dashboard](./src/assets/QMS.png)
 
-*Note: You can replace the image URL above with an actual screenshot of your running application once deployed or stored inside your repository.*
 
 ---
 
